@@ -1,0 +1,11 @@
+{
+  "name": "hello-frozone",
+  "scripts": {
+    "dev": "frozone dev",
+    "start": "frozone start",
+    "static": "frozone export"
+  },
+  "dependencies": {
+    "frozone": "0.0.4"
+  }
+}
