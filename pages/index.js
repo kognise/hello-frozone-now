@@ -1,6 +1,6 @@
 export default () => (
   <div>
-    <h1>Hello, Frozone!</h1>
+    <h1>Hello, Frozone!!</h1>
 
     <style jsx>{`
       h1 {

@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "frozone dev",
     "start": "frozone start",
-    "static": "frozone export"
+    "static": "frozone export",
+    "now-build": "frozone static"
   },
   "dependencies": {
     "frozone": "0.0.4"
